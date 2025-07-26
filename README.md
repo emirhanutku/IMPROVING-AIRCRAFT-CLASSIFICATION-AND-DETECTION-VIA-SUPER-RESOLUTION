@@ -75,7 +75,7 @@ Super-Resolution significantly improved performance in all stages by restoring h
 
 ## 📈 Report and Documentation
 
-Each stage is explained in detail in the [`VisionCourseProjectReport.pdf`](./VisionCourseProjectReport.pdf), including:
+Each stage is explained in detail in the [`VisionCourseProjectReport.pdf`](./Report.pdf), including:
 - Preprocessing pipelines  
 - Architecture setups  
 - Training curves  
