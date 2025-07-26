@@ -1,0 +1,4 @@
+
+Dataset: https://www.kaggle.com/datasets/khlaifiabilel/military-aircraft-recognition-dataset
+
+Important Note: The pretrained model is no longer available on GitHub and must be added manually to the models/ directory. (model link: https://huggingface.co/databuzzword/esrgan/blob/main/RRDB_ESRGAN_x4.pth)
